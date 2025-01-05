@@ -98,6 +98,6 @@ if __name__ == "__main__":
             t.name,
             start=start,
             location=t.location,
-            description=f"https://start.gg/{t.url}/details",
+            description=f"https://start.gg{t.url}/details",
         )
         gc.add_event(event, calendar_id=cal_id)
