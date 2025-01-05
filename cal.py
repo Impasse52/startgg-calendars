@@ -1,5 +1,5 @@
 def main():
-    print("Hello from rivals-tournament-calendar!")
+    print("helo")
 
 
 if __name__ == "__main__":
